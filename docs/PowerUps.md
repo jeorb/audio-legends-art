@@ -8,7 +8,7 @@ Maud Multiplier causes maud to spawn a number of Mauds equaling the multiplier w
 Massive Maud, when fired Maud will grow large and do splash damage 
  	MMx2
  	MMx3
-MMx4
+	MMx4
 	
 Frumpton power ups.
     
